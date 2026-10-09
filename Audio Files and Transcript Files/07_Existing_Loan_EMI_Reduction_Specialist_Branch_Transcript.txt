@@ -1,0 +1,7 @@
+agent: Hello, am I speaking with Rahul Sharma?
+user: Yes. This is Rahul Sharma. 
+agent: Thank you for confirming. I'm Priya, calling from Home Credit India. Is this a convenient time for a quick conversation?
+user: Yes. I am available. 
+agent: Thank you. As one of our valued customers, we're reaching out to share a special Loan Against Property offer of up to seventy-five lakh rupees. I'd like to ask a few questions to check your preliminary eligibility. Shall we proceed?
+user: Actually, I already have a loan against this property, and I want to reduce my current EMI. 
+agent: Thank you for clarifying. A loan-transfer specialist would be better placed to assist you with your existing loan or EMI concerns. Thank you for your time.

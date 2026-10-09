@@ -1,0 +1,10 @@
+agent: Hello, am I speaking with Rahul Sharma?
+user: Yes. This is Rahul Sharma. 
+agent: Thank you for confirming. I'm Priya, calling from Home Credit India. Is this a convenient time for a quick conversation?
+user: Yes. I am available. 
+agent: Thank you. As one of our valued customers, we're reaching out to share a special Loan Against Property offer of up to seventy-five lakh rupees. I'd like to ask a few questions to check your preliminary eligibility. Shall we proceed?
+user: Yes. Please go ahead. 
+agent: Could you please confirm what type of property you own—is it residential, commercial, industrial, or agricultural?
+user: Agricultural. 
+agent: Thank you for sharing that. Unfortunately, we’re unable to proceed with this Loan Against Property offer for agricultural property. Thank you for your time with Home Credit India. Have a great 
+agent: day.

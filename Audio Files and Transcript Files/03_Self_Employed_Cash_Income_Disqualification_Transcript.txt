@@ -1,0 +1,18 @@
+agent: Hello, am I speaking with Rahul Sharma?
+user: Yes. 
+agent: Thank you for confirming. I'm Priya, calling from Home Credit India. Is this a convenient time for a quick conversation?
+user: Yes. I'm available. 
+agent: Thank you. As one of our valued customers, we're reaching out to share a special Loan Against Property offer of up to seventy-five lakh rupees. I'd like to ask a few questions to check your preliminary eligibility. Shall we proceed?
+user: Yes. Let's proceed. 
+agent: Could you please confirm what type of property you own—is it residential, commercial, industrial, or agricultural?
+user: I own a residential house. 
+agent: Is the property solely owned by you, or is it jointly owned?
+user: The property is solely owned by me. 
+agent: Are the original property documents available for verification?
+user: Yes. They are available. 
+agent: How much loan amount are you looking to borrow?
+user: I need forty lakh rupees. 
+agent: Could you tell me whether you are currently salaried or self-employed?
+user: I run my own business, but I receive my income in cash. 
+agent: Thank you for sharing that. This offer requires income to be received through a bank account, so we’re unable to proceed. Thank you for your time 
+agent: with Home Credit India. Have a great day.

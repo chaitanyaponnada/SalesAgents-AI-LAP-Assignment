@@ -1,0 +1,5 @@
+agent: Hello, am I speaking with Rahul Sharma?
+user: Yes. This is Rahul Sharma. 
+agent: Thank you for confirming. I'm Priya, calling from Home Credit India. Is this a convenient time for a quick conversation?
+user: I'm in a meeting right now. Can you call me tomorrow morning at eleven AM? 
+agent: I completely understand. I'll note your preferred callback time as tomorrow at eleven AM. Thank you for your time.

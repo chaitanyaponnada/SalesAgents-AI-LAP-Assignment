@@ -1,0 +1,28 @@
+agent: Hello, am I speaking with Rahul Sharma?
+user: Yes. This is Rahul Sharma. 
+agent: Thank you for confirming. I'm Priya, calling from Home Credit India. Is this a convenient time for a quick conversation?
+user: Yes. I am available. 
+agent: Thank you. As one of our valued customers, we're reaching out to share a special Loan Against Property offer of up to seventy-five lakh rupees. I'd like to ask a few questions to check your preliminary eligibility. Shall we 
+user: Yes. 
+agent: proceed?
+user: Let's proceed. 
+agent: Could you please confirm what type of property you own—is it residential, commercial, industrial, or agricultural?
+user: I own a residential house. 
+agent: Is the property solely owned by you, or is it jointly owned?
+user: It's solely owned by me. 
+agent: Are the original property documents available for verification?
+user: Yes. The original documents are available. 
+agent: How much loan amount are you looking to 
+user: I 
+agent: borrow?
+user: need forty lakh rupees. 
+agent: Could you tell me whether you are currently salaried or self-employed?
+user: I'm salaried. 
+agent: Is your income received through a bank account or in cash?
+user: My salary comes directly into my bank account. 
+agent: What is the estimated current market value of your property?
+user: It's worth around eighty lakh rupees. 
+agent: Over how many years would you like to repay the loan?
+user: I would prefer a twelve year tenure. 
+agent: Thank you for sharing those details. Based on the information you've provided, you appear to meet the preliminary eligibility criteria for this Home Credit India Loan Against Property offer. A senior loan expert will be able to review your details, explain the exact interest rate and applicable terms, and discuss the next steps. 
+agent: Thank you for your time. Have a great day.
